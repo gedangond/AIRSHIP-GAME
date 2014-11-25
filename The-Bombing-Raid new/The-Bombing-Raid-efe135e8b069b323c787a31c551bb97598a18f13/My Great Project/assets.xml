@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.4">
+  <sounds />
+  <images>
+    <image name="background">
+      <file name="background.png" size="842575" />
+    </image>
+    <image name="title">
+      <file name="title.png" size="12235" />
+    </image>
+    <image name="play button">
+      <file name="play button.png" size="3849" />
+    </image>
+    <image name="instructions">
+      <file name="instructions.PNG" size="1030784" />
+    </image>
+    <image name="game screen 2">
+      <file name="game screen 2.PNG" size="2682" />
+    </image>
+    <image name="instructions2">
+      <file name="instructions2.png" size="775867" />
+    </image>
+    <image name="game scene 2 capture">
+      <file name="game scene 2 capture.PNG" size="28778" />
+    </image>
+    <image name="game scen 1 capture">
+      <file name="game scen 1 capture.PNG" size="20766" />
+    </image>
+    <image name="engine room">
+      <file name="engine room.png" size="25336" />
+    </image>
+    <image name="fuel storage capture">
+      <file name="fuel storage capture.PNG" size="17693" />
+    </image>
+    <image name="bomb storage">
+      <file name="bomb storage.PNG" size="18060" />
+    </image>
+    <image name="captains room">
+      <file name="captains room.PNG" size="33834" />
+    </image>
+    <image name="win scene">
+      <file name="win scene.PNG" size="487737" />
+    </image>
+    <image name="Main character">
+      <file name="Main character.png" size="472" />
+    </image>
+    <image name="bullet">
+      <file name="bullet.png" size="230" />
+    </image>
+    <image name="grunt">
+      <file name="grunt.png" size="476" />
+    </image>
+    <image name="dead grunt">
+      <file name="dead grunt.png" size="328" />
+    </image>
+    <image name="Captain">
+      <file name="Captain.png" size="546" />
+    </image>
+    <image name="dynamite press">
+      <file name="dynamite press.png" size="457" />
+    </image>
+    <image name="dynamite">
+      <file name="dynamite.png" size="162" />
+    </image>
+    <image name="131054668_11n">
+      <file name="131054668_11n.png" size="331815" />
+    </image>
+    <image name="executed">
+      <file name="executed.png" size="8801" />
+    </image>
+    <image name="EXCUTED 2">
+      <file name="EXCUTED 2.PNG" size="2982" />
+    </image>
+    <image name="PLAY AGAIN">
+      <file name="PLAY AGAIN.PNG" size="2005" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
