@@ -73,7 +73,7 @@
         <index id="timerType">0</index>
         <real id="interval">
           <expression>
-            <string>random(1, 3)</string>
+            <string>random(1, 2)</string>
           </expression>
         </real>
         <boolean id="runToCompletion">false</boolean>
