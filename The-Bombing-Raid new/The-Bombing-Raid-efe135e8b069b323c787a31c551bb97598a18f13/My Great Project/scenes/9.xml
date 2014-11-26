@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id971363">
+<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id175968">
   <layers>
-    <layer id="id344479">
+    <layer id="id589695">
       <actors>
-        <actor id="id629738" prototype="id518255">
+        <actor id="id779142" prototype="id179623">
           <attributes>
             <point id="position">
-              <real id="x">239.5</real>
-              <real id="y">162</real>
+              <real id="x">240.5</real>
+              <real id="y">160</real>
             </point>
             <size id="size">
-              <real id="width">482</real>
-              <real id="height">321</real>
+              <real id="width">475</real>
+              <real id="height">315</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -28,15 +28,110 @@
             </physics>
           </aspects>
         </actor>
-        <actor id="id722261" prototype="id731706">
+        <actor id="id348400" prototype="id588702">
           <attributes>
             <point id="position">
-              <real id="x">242.5</real>
-              <real id="y">12</real>
+              <real id="x">341</real>
+              <real id="y">86.5</real>
             </point>
             <size id="size">
-              <real id="width">151</real>
-              <real id="height">44</real>
+              <real id="width">95</real>
+              <real id="height">141</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <behaviors>
+            <behavior id="id561999" class="RuleBehavior" enabled="true">
+              <attributes>
+                <text id="name">Rule</text>
+                <text id="bundleName">Rule.behavior</text>
+                <real id="compoundConditionKind">0</real>
+              </attributes>
+              <conditions>
+                <condition id="id643555" eventType="overlaps or collides" pluginPredicateTypeIndex="0" class="Collision">
+                  <attributes>
+                    <text id="name">default name</text>
+                    <index id="conditionType">0</index>
+                  </attributes>
+                  <predicate type="collision">
+                    <attributes>
+                      <text id="prototypeKey">id324792</text>
+                      <text id="actorTag" />
+                      <real id="mode">0</real>
+                    </attributes>
+                  </predicate>
+                </condition>
+              </conditions>
+              <behaviors>
+                <behavior id="id956759" class="DestroyAction" enabled="true">
+                  <attributes>
+                    <text id="name">Destroy</text>
+                    <text id="bundleName">Destroy.behavior</text>
+                  </attributes>
+                </behavior>
+                <behavior id="id720419" class="SpawnAction" enabled="true">
+                  <attributes>
+                    <text id="name">Spawn Actor</text>
+                    <text id="bundleName">Spawn.behavior</text>
+                    <text id="prototypeKey">id262317</text>
+                    <angle id="direction">0</angle>
+                    <index id="directionSpace">0</index>
+                    <real id="x">0</real>
+                    <real id="y">-55</real>
+                    <index id="positionSpace">0</index>
+                    <index id="layerOrder">0</index>
+                  </attributes>
+                </behavior>
+              </behaviors>
+            </behavior>
+          </behaviors>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id249572" prototype="id181933">
+          <attributes>
+            <point id="position">
+              <real id="x">613.5</real>
+              <real id="y">136</real>
+            </point>
+            <size id="size">
+              <real id="width">640</real>
+              <real id="height">480</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id586943" prototype="id393862">
+          <attributes>
+            <point id="position">
+              <real id="x">-5.5</real>
+              <real id="y">99</real>
+            </point>
+            <size id="size">
+              <real id="width">107</real>
+              <real id="height">141</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -61,7 +156,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Scene 7</text>
+    <text id="name">Scene 6</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">480</real>

@@ -48,6 +48,9 @@
     <actor id="id220023" />
     <actor id="id630379" />
     <actor id="id731706" />
+    <actor id="id893132" />
+    <actor id="id218223" />
+    <actor id="id615864" />
   </prototypes>
   <plugins />
   <scenes>
@@ -56,6 +59,7 @@
     <scene id="id252207" />
     <scene id="id771374" />
     <scene id="id774307" />
+    <scene id="id863333" />
     <scene id="id781774" />
     <scene id="id182311" />
     <scene id="id175968" />

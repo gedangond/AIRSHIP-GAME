@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id182311">
+<scene PGFVersion="0.19" GSCVersion="0.10.4" id="id415153">
   <layers>
-    <layer id="id312724">
+    <layer id="id455046">
       <actors>
-        <actor id="id531029" prototype="id186664">
+        <actor id="id399633" prototype="id940631">
           <attributes>
             <point id="position">
-              <real id="x">240</real>
-              <real id="y">160.5</real>
+              <real id="x">239.5</real>
+              <real id="y">159</real>
             </point>
             <size id="size">
-              <real id="width">481</real>
-              <real id="height">320</real>
+              <real id="width">480</real>
+              <real id="height">317</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -28,15 +28,15 @@
             </physics>
           </aspects>
         </actor>
-        <actor id="id938526" prototype="id181933">
+        <actor id="id829923" prototype="id630379">
           <attributes>
             <point id="position">
-              <real id="x">801.5</real>
-              <real id="y">140</real>
+              <real id="x">236.5</real>
+              <real id="y">260</real>
             </point>
             <size id="size">
-              <real id="width">640</real>
-              <real id="height">480</real>
+              <real id="width">217</real>
+              <real id="height">34</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -53,65 +53,15 @@
             </physics>
           </aspects>
         </actor>
-        <actor id="id100105" prototype="id393862">
+        <actor id="id903823" prototype="id731706">
           <attributes>
             <point id="position">
-              <real id="x">-62.5</real>
-              <real id="y">113</real>
+              <real id="x">245.5</real>
+              <real id="y">52.5</real>
             </point>
             <size id="size">
-              <real id="width">107</real>
-              <real id="height">141</real>
-            </size>
-            <angle id="rotation">0</angle>
-          </attributes>
-          <aspects>
-            <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
-            </graphics>
-            <motion />
-            <physics>
-              <attributes />
-            </physics>
-          </aspects>
-        </actor>
-        <actor id="id998162" prototype="id762181">
-          <attributes>
-            <point id="position">
-              <real id="x">189.5</real>
-              <real id="y">107.5</real>
-            </point>
-            <size id="size">
-              <real id="width">75</real>
-              <real id="height">145</real>
-            </size>
-            <angle id="rotation">0</angle>
-          </attributes>
-          <aspects>
-            <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
-            </graphics>
-            <motion />
-            <physics>
-              <attributes />
-            </physics>
-          </aspects>
-        </actor>
-        <actor id="id331480" prototype="id762181">
-          <attributes>
-            <point id="position">
-              <real id="x">302.5</real>
-              <real id="y">106.5</real>
-            </point>
-            <size id="size">
-              <real id="width">75</real>
-              <real id="height">145</real>
+              <real id="width">151</real>
+              <real id="height">44</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -136,7 +86,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Scene 5</text>
+    <text id="name">Scene 8</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">480</real>
