@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game title="My Great Project" GSCVersion="0.10.4" PGFVersion="0.19">
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags" />
+    <integer id="id444469" name="player health">100</integer>
+  </attributes>
   <tags />
   <resolutionIndependence>0</resolutionIndependence>
   <instructions>Add game instructions here.</instructions>
@@ -52,14 +62,4 @@
     <scene id="id971363" />
     <scene id="id415153" />
   </scenes>
-  <attributes>
-    <text id="name">default name</text>
-    <real id="time">0</real>
-    <size id="displaySize">
-      <real id="width">480</real>
-      <real id="height">320</real>
-    </size>
-    <text id="actorTags" />
-    <integer id="id444469" name="player health">100</integer>
-  </attributes>
 </game>

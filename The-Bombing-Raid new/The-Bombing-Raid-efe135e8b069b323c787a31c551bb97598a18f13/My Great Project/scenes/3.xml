@@ -319,7 +319,7 @@
                 <text id="name">Timer</text>
                 <text id="bundleName">Timer.behavior</text>
                 <index id="timerType">0</index>
-                <real id="interval">3</real>
+                <real id="interval">2</real>
                 <boolean id="runToCompletion">false</boolean>
               </attributes>
               <behaviors>

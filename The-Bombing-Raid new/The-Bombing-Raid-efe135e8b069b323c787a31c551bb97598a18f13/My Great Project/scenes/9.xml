@@ -28,6 +28,28 @@
             </physics>
           </aspects>
         </actor>
+        <actor id="id722261" prototype="id731706">
+          <attributes>
+            <point id="position">
+              <real id="x">-90.5</real>
+              <real id="y">60</real>
+            </point>
+            <size id="size">
+              <real id="width">151</real>
+              <real id="height">44</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
       </actors>
       <attributes>
         <text id="name">Background</text>
